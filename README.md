@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://www.youtube.com/@Denar1ux">
-        <img src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=f70787&background=FF673200&center=true&vCenter=true&lines=Hello,+I+am+Nazedev;Welcome+to+my+GitHub+😊" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=f70787&background=FF673200&center=true&vCenter=true&lines=Hello,+I+am+Nep;Welcome+to+my+GitHub+😊" alt="Typing SVG" />
     </a>
 </div>
 
@@ -28,7 +28,7 @@
   <a href="https://youtube.com/c/Nazedev"><img src="https://img.shields.io/badge/YouTube-Naze -ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/@Nazedev" /><br>
   <a href="https://github.com/nazedev"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   <a href="https://youtube.com/channel/UCl77jQD3nSFp__z1oRxm-fA"><img src="https://img.shields.io/youtube/channel/subscribers/UCl77jQD3nSFp__z1oRxm-fA?style=social" /> <br>
-  <a name=nazedev&label=VIEWS&style=flat-square&color=orange" />
+  <a name=nepdev&label=VIEWS&style=flat-square&color=orange" />
 </p>
 
 ### Github Stats 🚀
